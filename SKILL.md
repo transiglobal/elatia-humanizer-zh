@@ -1,5 +1,6 @@
 ---
 name: humanizer-zh
+upstream: 翻译自 blader/humanizer
 description: |
   去除文本中的 AI 生成痕迹。当用户说"润色"、"改写"、"去 AI 味"、"更像人写的"、
   "不要太机械"、"自然一点"、"有人味"时使用。也用于：编辑邮件/文案/文章/报告、
